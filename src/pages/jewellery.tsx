@@ -351,16 +351,21 @@ export default function JewelleryPage() {
             paddingBottom: '60px'
           }}>
           
-          <img
-            src="/airo-assets/images/pages/jewellery/hero"
-            alt="Pamela's Couture Jewellery"
-            className="absolute inset-0 w-full h-full"
+          <video
+            className="absolute inset-0 w-full h-full pointer-events-none"
             style={{
               objectFit: 'cover',
               objectPosition: 'center'
             }}
-            fetchPriority="high"
-            loading="eager" />
+            autoPlay
+            muted
+            loop
+            playsInline
+            preload="metadata"
+            aria-hidden="true"
+          >
+            <source src="/videos/jewellery-bg.mp4" type="video/mp4" />
+          </video>
           
 
           <div className="absolute inset-0 pointer-events-none hero-overlay" />
