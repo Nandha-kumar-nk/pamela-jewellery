@@ -129,6 +129,15 @@ const products = [
   image: '/images/jewellery/necklaces/n10.png'
 },
 {
+  id: 'n11',
+  name: 'Mint Green Bridal Jewellery Set',
+  category: 'Necklaces',
+  subtitle: 'Necklace, Earrings & Mangtika Set',
+  desc: 'A luxurious mint-green jewellery set featuring a layered necklace, elegant chandelier earrings, and a matching mangtika. Adorned with sparkling stones and delicate teardrop embellishments, this statement set is perfect for weddings, festive celebrations, and special occasions.',
+  price: 4050,
+  image: '/images/jewellery/necklaces/n11.jpeg'
+},
+{
   id: 'e1',
   name: 'Radiant Bloom Diamond Drop Earrings',
   category: 'Earrings',
@@ -247,7 +256,33 @@ const products = [
   price: 180,
   image: '/images/jewellery/earrings/e13.png'
 },
-
+{
+  id: 'e14',
+  name: 'Ruby Pearl Stud Earrings',
+  category: 'Earrings',
+  subtitle: 'Ruby, Pearl & Crystal Stud Earrings',
+  desc: 'Elegant gold-tone stud earrings featuring rich ruby-red rectangular stones surrounded by delicate pearls and sparkling crystal detailing. A luxurious choice for festive occasions, celebrations, and traditional outfits.',
+  price: 220,
+  image: '/images/jewellery/earrings/e14.png'
+},
+{
+  id: 'e15',
+  name: 'Black Onyx Pearl Stud Earrings',
+  category: 'Earrings',
+  subtitle: 'Black Stone, Pearl & Crystal Stud Earrings',
+  desc: 'Sophisticated gold-tone stud earrings featuring bold black rectangular stones framed with delicate pearls and sparkling crystal accents. A timeless and elegant choice for festive occasions, celebrations, and traditional outfits.',
+  price: 220,
+  image: '/images/jewellery/earrings/e15.png'
+},
+{
+  id: 'e16',
+  name: 'Multicolor Gemstone Gold Hoop Earrings',
+  category: 'Earrings',
+  subtitle: 'Gold Hoops with Ruby & Emerald Stones',
+  desc: 'Beautiful gold-tone hoop earrings featuring vibrant ruby, emerald, and sparkling stone accents in an elegant floral-inspired design. Perfect for adding a stylish and luxurious touch to festive and everyday outfits.',
+  price: 160,
+  image: '/images/jewellery/earrings/e16.png'
+},
 {
   id: 'r1',
   name: 'Royal Pavé Halo Statement Ring',

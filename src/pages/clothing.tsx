@@ -451,7 +451,7 @@ export default function ClothingPage() {
 
             height: 100%;
 
-            object-fit: cover;
+            object-fit: contain;
 
             object-position: center;
 
@@ -464,7 +464,7 @@ export default function ClothingPage() {
 
           .product-card:hover
           .product-image img {
-            transform: scale(1.04);
+            transform: none;
           }
 
 
