@@ -65,7 +65,32 @@ const products = [
   price: 11700,
   image:
   '/images/sarees/saree4.png'
-}];
+},
+{
+  id: 's5',
+  name: "Blush Pink Embroidered Saree",
+  subtitle: "Elegant Floral Embroidered Festive Saree",
+  description: "A graceful blush pink saree featuring delicate floral embroidery, intricate detailing along the border, and a beautifully embellished blouse. Its soft, sophisticated look makes it perfect for weddings, festive celebrations, receptions, and special occasions.",
+  price: 6675,
+  image: "/images/sarees/s5.jpeg"
+},
+{
+  id: 's6',
+  name: "Ivory Embroidered Organza Saree",
+  subtitle: "Elegant Pearl-Tone Embroidered Saree",
+  description: "An elegant ivory saree crafted with delicate floral embroidery, scalloped detailing, and intricate embellishments along the blouse neckline and saree border. Perfect for weddings, festive celebrations, receptions, and special occasions.",
+  price: 5775,
+  image: "/images/sarees/s6.jpeg"
+},
+{
+  id: 's7',
+  name: "Elegant Yellow Embroidered Saree",
+  subtitle: "Graceful Hand-Embroidered Festive Saree",
+  description: "A beautifully crafted yellow saree featuring delicate floral embroidery, a refined embellished border, and a contrasting deep green embroidered blouse. Perfect for festive occasions, celebrations, and elegant traditional wear.",
+  price: 6075,
+  image: "/images/sarees/s7.jpeg"
+}
+];
 
 
 
