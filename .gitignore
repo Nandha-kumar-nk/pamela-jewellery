@@ -85,3 +85,9 @@ pids
 .airo/qa-runs/
 .airo/qa-report.json
 .airo/security-report.json
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
