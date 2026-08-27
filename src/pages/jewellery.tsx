@@ -56,7 +56,78 @@ const products = [
   price: 1800,
   image:  '/images/jewellery/necklaces/n2.jpeg'
 },
-
+{
+  id: 'n3',
+  name: 'Amethyst Cascade Statement Necklace Set',
+  category: 'Necklaces',
+  subtitle: 'Necklace & Matching Earrings',
+  desc: 'A stunning statement jewellery set featuring elegant purple amethyst-style stones, layered crystal detailing, a cascading pendant design, and matching drop earrings. Perfect for weddings, festive celebrations, parties, and special occasions.',
+  price: 2527,
+  image: '/images/jewellery/necklaces/n3.png'
+},
+{
+  id: 'n4',
+  name: 'Mint Green Crystal Necklace Set',
+  category: 'Necklaces',
+  subtitle: 'Layered Necklace & Matching Earrings',
+  desc: 'A sophisticated jewellery set featuring layered strands of sparkling stones with elegant mint-green crystal accents and matching drop earrings. Perfect for weddings, festive celebrations, receptions, and special occasions.',
+  price: 3000,
+  image: '/images/jewellery/necklaces/n4.png'
+},
+{
+  id: 'n5',
+  name: 'Ruby Elegance Statement Necklace Set',
+  category: 'Necklaces',
+  subtitle: 'Ruby Necklace & Matching Earrings',
+  desc: 'A luxurious ruby-red jewellery set featuring a layered statement necklace with sparkling stone detailing and matching drop earrings. Perfect for weddings, festive celebrations, and special occasions.',
+  price: 2992,
+  image: '/images/jewellery/necklaces/n5.png'
+},
+{
+  id: 'n6',
+  name: 'Royal Blue Sapphire Necklace Set',
+  category: 'Necklaces',
+  subtitle: 'Blue Sapphire Necklace & Matching Earrings',
+  desc: 'A sophisticated royal blue jewellery set featuring a layered necklace adorned with deep blue stones, sparkling accents, and matching drop earrings. Perfect for weddings, festive celebrations, and elegant evening occasions.',
+  price: 3525,
+  image: '/images/jewellery/necklaces/n6.png'
+},
+{
+  id: 'n7',
+  name: 'Blush Pink Crystal Necklace Set',
+  category: 'Necklaces',
+  subtitle: 'Pink Crystal Necklace & Matching Earrings',
+  desc: 'An elegant jewellery set featuring delicate blush-pink stones surrounded by sparkling crystal detailing, complemented by a graceful layered necklace and matching drop earrings. Perfect for weddings, festive occasions, and sophisticated evening looks.',
+  price: 1987,
+  image: '/images/jewellery/necklaces/n7.png'
+},
+{
+  id: 'n8',
+  name: 'Amethyst Royal Statement Necklace Set',
+  category: 'Necklaces',
+  subtitle: 'Amethyst Necklace & Matching Earrings',
+  desc: 'A stunning statement jewellery set featuring deep purple amethyst-inspired stones with intricate crystal detailing and elegant cascading designs. Perfect for weddings, festive celebrations, parties, and glamorous evening occasions.',
+  price: 2325,
+  image: '/images/jewellery/necklaces/n8.png'
+},
+{
+  id: 'n9',
+  name: 'Pearl Elegance Necklace Set',
+  category: 'Necklaces',
+  subtitle: 'Pearl Necklace & Matching Earrings',
+  desc: 'An elegant pearl jewellery set featuring lustrous pearls arranged with intricate crystal detailing and graceful floral-inspired motifs. Perfect for weddings, festive occasions, celebrations, and timeless traditional looks.',
+  price: 2025,
+  image: '/images/jewellery/necklaces/n9.png'
+},
+{
+  id: 'n10',
+  name: 'Pearl Leaf Pendant Necklace Set',
+  category: 'Necklaces',
+  subtitle: 'Pearl Necklace & Matching Earrings',
+  desc: 'A graceful pearl jewellery set featuring lustrous pearls, an elegant leaf-inspired statement pendant, sparkling stone detailing, and matching drop earrings. Perfect for weddings, festive celebrations, parties, and sophisticated traditional occasions.',
+  price: 1455,
+  image: '/images/jewellery/necklaces/n10.png'
+},
 {
   id: 'e1',
   name: 'Radiant Bloom Diamond Drop Earrings',
