@@ -1,0 +1,36 @@
+{
+  "featuredProducts": [
+    {
+      "id": "WMQasZtxJnXgTOTpf8hB3",
+      "name": "Crimson Grace",
+      "subtitle": "Pre-Draped Silk-Georgette Saree Set",
+      "desc": "A graceful pre-draped crimson silk-georgette saree with intricate silver embroidery, perfect for festive occasions.",
+      "price": "₹11,700",
+      "image": "/images/featured/f1.jpeg"
+    },
+    {
+      "id": "eelWZx6aPbQXpFBuZ83K7",
+      "name": "The Ocean Deep Collection",
+      "subtitle": "Necklace + Earring Set",
+      "desc": "Elegant deep-blue necklace and matching earrings with sparkling stone detailing. Perfect for festive occasions and special events.",
+      "price": "₹2,600/-",
+      "image": "/images/featured/f2.png"
+    },
+    {
+      "id": "4Om6XH0EOZNdLucj7iweP",
+      "name": "Ocean  Deep  Collection Bangles",
+      "subtitle": "Bangles",
+      "desc": "Elegant gold-finish bangles designed with a refined look, perfect for festive occasions and everyday styling.",
+      "price": "₹1,620/-",
+      "image": "/images/featured/f3.jpeg"
+    },
+    {
+      "id": "43cIYhmZ_XM-wQG_8zXfS",
+      "name": "Pink Sapphire and Diamond Halo Mosaic Medallion Ring",
+      "subtitle": "",
+      "desc": "Pink Sapphire and Diamond Halo Mosaic Medallion Ring",
+      "price": "₹450/-",
+      "image": "/images/featured/f4.jpg"
+    }
+  ]
+}

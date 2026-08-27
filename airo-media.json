@@ -1,0 +1,1077 @@
+{
+  "pages/home/featured-1": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-featured-1-150092e9.jpg",
+    "searchQuery": "woman in red saree palace courtyard",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-featured-1-9c7192d6.png",
+      "https://img1.wsimg.com/isteam/getty/2264343368",
+      "https://img1.wsimg.com/isteam/getty/1528157373",
+      "https://img1.wsimg.com/isteam/getty/613754504"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-22T10:10:16.164Z",
+    "lastUpdated": "2026-08-22T15:54:38.234Z",
+    "alternativeGettyIds": [
+      "",
+      "2264343368",
+      "1528157373",
+      "613754504"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-featured-1-9c7192d6.png": "pfzj1wmq28_1787412745887_file_oQelDZT9P8.png",
+      "/airo-assets/uploads/pages-home-featured-1-150092e9.jpg": "pfzj1wmq28_1787414066042_file_0QxlAqwg1t.jpeg"
+    },
+    "uploadContentHash": "8dcbea48b642d15f78e1c19d64fbe5de4722bdf724c84413a62c349f69f3bc99",
+    "caption": "woman in red saree palace courtyard"
+  },
+  "pages/home/featured-4": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-featured-4-e4b2ac45.jpg",
+    "searchQuery": "luxury diamond ring with pink sapphires",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-featured-4-9aa0812b.jpg",
+      "/airo-assets/uploads/pages-home-featured-4-131e5e69.jpg",
+      "https://img1.wsimg.com/isteam/getty/1528157373",
+      "https://img1.wsimg.com/isteam/getty/2250669363",
+      "https://img1.wsimg.com/isteam/getty/1394200998"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-22T10:10:16.739Z",
+    "lastUpdated": "2026-08-22T16:19:01.650Z",
+    "alternativeGettyIds": [
+      "",
+      "",
+      "1528157373",
+      "2250669363",
+      "1394200998"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-featured-4-131e5e69.jpg": "pfzj1wmq28_1787414847062_file_9HnEVKKr7B.jpg",
+      "/airo-assets/uploads/pages-home-featured-4-9aa0812b.jpg": "pfzj1wmq28_1787415181996_file_lUJLLvoqls.jpg",
+      "/airo-assets/uploads/pages-home-featured-4-e4b2ac45.jpg": "pfzj1wmq28_1787415437246_file_-DmYXidPbv.jpg"
+    },
+    "uploadContentHash": "414a0ad138079cec0a2b878348b3aa3c3763923ecb357b878f2c6e1a5f6ff7d5",
+    "caption": "luxury diamond ring with pink sapphires"
+  },
+  "pages/home/featured-3": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-featured-3-131e5e69.jpg",
+    "searchQuery": "sapphire diamond bracelets on marble display",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-featured-3-1a9b6850.jpg",
+      "https://img1.wsimg.com/isteam/getty/1468155087",
+      "https://img1.wsimg.com/isteam/getty/1455260726",
+      "https://img1.wsimg.com/isteam/getty/1569972088"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-22T10:10:17.283Z",
+    "lastUpdated": "2026-08-22T16:08:22.028Z",
+    "alternativeGettyIds": [
+      "",
+      "1468155087",
+      "1455260726",
+      "1569972088"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-featured-3-1a9b6850.jpg": "pfzj1wmq28_1787414845027_file_lhlgChoBzw.jpeg",
+      "/airo-assets/uploads/pages-home-featured-3-131e5e69.jpg": "pfzj1wmq28_1787414847062_file_9HnEVKKr7B.jpg"
+    },
+    "uploadContentHash": "e904b943fb99fd07fc234fc27cba7949c2edde688d29a3c7880d626270d0935c",
+    "caption": "sapphire diamond bracelets on marble display"
+  },
+  "pages/home/hero": {
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1135930411",
+    "searchQuery": "elegant Indian woman saree luxury fashion boutique side pose negative space",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1135930341",
+      "https://img1.wsimg.com/isteam/getty/2227523832",
+      "https://img1.wsimg.com/isteam/getty/1457326854",
+      "https://img1.wsimg.com/isteam/getty/1420839281",
+      "https://img1.wsimg.com/isteam/getty/1459272785"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-22T10:10:18.943Z",
+    "lastUpdated": "2026-08-22T10:38:10.140Z",
+    "gettyId": "1135930411",
+    "alternativeGettyIds": [
+      "1135930341",
+      "2227523832",
+      "1457326854",
+      "1420839281",
+      "1459272785"
+    ]
+  },
+  "pages/home/collection-clothing": {
+    "requestedSize": {
+      "width": 600,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-collection-clothing-49001f8c.jpg",
+    "searchQuery": "woman reading book in home library",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2288365894",
+      "https://img1.wsimg.com/isteam/getty/1417996584",
+      "https://img1.wsimg.com/isteam/getty/1812675406",
+      "https://img1.wsimg.com/isteam/getty/1281196584",
+      "https://img1.wsimg.com/isteam/getty/500162223",
+      "https://img1.wsimg.com/isteam/getty/500907883"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-22T10:10:21.048Z",
+    "lastUpdated": "2026-08-22T10:56:36.234Z",
+    "alternativeGettyIds": [
+      "2288365894",
+      "1417996584",
+      "1812675406",
+      "1281196584",
+      "500162223",
+      "500907883"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-collection-clothing-49001f8c.jpg": "pfzj1wmq28_1787396183936_file_Mlb0Sknuuw.jpeg"
+    },
+    "uploadContentHash": "5621aba89a707638b0ae72e11134f29b1d194ead8e01060613c59712ed9fa915",
+    "caption": "woman reading book in home library"
+  },
+  "pages/home/collection-jewellery": {
+    "requestedSize": {
+      "width": 600,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-collection-jewellery-8f4274e8.jpg",
+    "searchQuery": "luxury ruby diamond cocktail rings",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2172517802",
+      "https://img1.wsimg.com/isteam/getty/2209553229",
+      "https://img1.wsimg.com/isteam/getty/2221142403",
+      "https://img1.wsimg.com/isteam/getty/2284521049",
+      "https://img1.wsimg.com/isteam/getty/1395172452",
+      "https://img1.wsimg.com/isteam/getty/1735653268"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-22T10:10:22.571Z",
+    "lastUpdated": "2026-08-22T10:50:52.626Z",
+    "alternativeGettyIds": [
+      "2172517802",
+      "2209553229",
+      "2221142403",
+      "2284521049",
+      "1395172452",
+      "1735653268"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-collection-jewellery-8f4274e8.jpg": "pfzj1wmq28_1787395756083_file_JGNeS9SKfJ.jpeg"
+    },
+    "uploadContentHash": "bcacc8d06d76ced287ab8ebaf6309bbf86bd7ddf74021a62dff4984eeb12bbe0",
+    "caption": "luxury ruby diamond cocktail rings"
+  },
+  "pages/home/collection-sarees": {
+    "requestedSize": {
+      "width": 600,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-collection-sarees-1cb9164e.png",
+    "searchQuery": "woman in pastel saree elegant interior",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/861321924",
+      "https://img1.wsimg.com/isteam/getty/1050613002",
+      "https://img1.wsimg.com/isteam/getty/848240694",
+      "https://img1.wsimg.com/isteam/getty/2182435132",
+      "https://img1.wsimg.com/isteam/getty/1493546391",
+      "https://img1.wsimg.com/isteam/getty/1225421811"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-22T10:10:25.544Z",
+    "lastUpdated": "2026-08-23T11:38:00.125Z",
+    "alternativeGettyIds": [
+      "861321924",
+      "1050613002",
+      "848240694",
+      "2182435132",
+      "1493546391",
+      "1225421811"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-collection-sarees-1cb9164e.png": "pfzj1wmq28_1787485025634_file_AvmHNDyzsX.png"
+    },
+    "uploadContentHash": "6183d7c1bc6c2ccd702938e0338520c5511b2890e0cdf6766d3de2073088418a",
+    "caption": "woman in pastel saree elegant interior"
+  },
+  "pages/home/featured-2": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-featured-2-1bb754a0.png",
+    "searchQuery": "luxury sapphire jewelry collection display",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1296154460",
+      "https://img1.wsimg.com/isteam/getty/2260851251",
+      "https://img1.wsimg.com/isteam/getty/2250955880"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-22T10:10:26.957Z",
+    "lastUpdated": "2026-08-22T16:04:54.434Z",
+    "alternativeGettyIds": [
+      "1296154460",
+      "2260851251",
+      "2250955880"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-featured-2-1bb754a0.png": "pfzj1wmq28_1787414679980_file_CaSQOrJoKW.png"
+    },
+    "uploadContentHash": "4593e8aa1c3af1261597979559b784bdca7dbb3504b274f8c2dbc47f1c2ed374",
+    "caption": "luxury sapphire jewelry collection display"
+  },
+  "logo/horizontal": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-9c7192d6.png",
+    "searchQuery": "pamelas couture fashion shopping badge logo",
+    "alternatives": [
+      "/airo-assets/uploads/logo-horizontal-233f6f6f.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-22T10:10:33.236Z",
+    "lastUpdated": "2026-08-22T15:32:41.372Z",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-233f6f6f.jpg": "upload-1787393323712-cdgGQ9JU.jpeg",
+      "/airo-assets/uploads/logo-horizontal-9c7192d6.png": "pfzj1wmq28_1787412745887_file_oQelDZT9P8.png"
+    },
+    "uploadContentHash": "5d864ef9a0fbdc14d7d5187849dae49986500e9d474c559d8df37b3e73120c60",
+    "naturalOrientation": "square",
+    "caption": "pamelas couture fashion shopping badge logo"
+  },
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-233f6f6f.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-22T10:10:33.236Z",
+    "lastUpdated": "2026-08-22T10:28:17.458Z",
+    "naturalOrientation": "square",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-233f6f6f.jpg": "upload-1787393323712-cdgGQ9JU.jpeg"
+    }
+  },
+  "pages/jewellery/necklace-1": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-necklace-1-e5cf79a2.jpg",
+    "searchQuery": "diamond necklace earring set display",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2253221832",
+      "https://img1.wsimg.com/isteam/getty/1455260726",
+      "https://img1.wsimg.com/isteam/getty/1449812668"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-23T11:57:31.565Z",
+    "lastUpdated": "2026-08-23T13:01:53.446Z",
+    "alternativeGettyIds": [
+      "2253221832",
+      "1455260726",
+      "1449812668"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-necklace-1-e5cf79a2.jpg": "pfzj1wmq28_1787490089649_file_8boSo8sVal.jpeg"
+    },
+    "uploadContentHash": "7d326182503ba38b2b7b67ac04537a731877b2549a96eb3981d6d901e1abe797",
+    "caption": "diamond necklace earring set display"
+  },
+  "pages/jewellery/necklace-2": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-necklace-2-ba556f53.jpg",
+    "searchQuery": "emerald diamond jewelry set with compass",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1631394941",
+      "https://img1.wsimg.com/isteam/getty/1457110517",
+      "https://img1.wsimg.com/isteam/getty/464513262"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-23T11:57:32.536Z",
+    "lastUpdated": "2026-08-23T13:03:42.493Z",
+    "alternativeGettyIds": [
+      "1631394941",
+      "1457110517",
+      "464513262"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-necklace-2-ba556f53.jpg": "pfzj1wmq28_1787490169661_file_xpk9GxHCMc.jpeg"
+    },
+    "uploadContentHash": "2b9bf08ff304cb942699d12ba9d66b49cea50969c33c4c1a9813770ccc8dc3bd",
+    "caption": "emerald diamond jewelry set with compass"
+  },
+  "pages/jewellery/set-1": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2251641232",
+    "searchQuery": "gold necklace earring jewellery set luxury display",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1631394941",
+      "https://img1.wsimg.com/isteam/getty/1631394436"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-23T11:57:33.654Z",
+    "lastUpdated": "2026-08-23T11:57:33.654Z",
+    "gettyId": "2251641232",
+    "alternativeGettyIds": [
+      "1631394941",
+      "1631394436"
+    ]
+  },
+  "pages/jewellery/earrings-2": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-earrings-2-0824154b.png",
+    "searchQuery": "emerald and diamond butterfly brooch",
+    "alternatives": [
+      "/airo-assets/uploads/pages-jewellery-earrings-2-e1d15241.png",
+      "https://img1.wsimg.com/isteam/getty/2172173302",
+      "https://img1.wsimg.com/isteam/getty/1480939755",
+      "https://img1.wsimg.com/isteam/getty/176858319"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-23T11:57:34.325Z",
+    "lastUpdated": "2026-08-25T16:50:15.527Z",
+    "alternativeGettyIds": [
+      "",
+      "2172173302",
+      "1480939755",
+      "176858319"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-earrings-2-0824154b.png": "pfzj1wmq28_1787676610968_file_Z-7WeMKdhE.png",
+      "/airo-assets/uploads/pages-jewellery-earrings-2-e1d15241.png": "pfzj1wmq28_1787671890872_file_dgr0LZ-6mE.png"
+    },
+    "uploadContentHash": "e0e4a5751dda436ad52b712af8ed4921e9de55e1fcf720943bd3209688042ea4",
+    "caption": "emerald and diamond butterfly brooch"
+  },
+  "pages/jewellery/bangles-2": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-bangles-2-ad4859a5.png",
+    "searchQuery": "emerald diamond bracelets jewelry display",
+    "alternatives": [
+      "/airo-assets/uploads/pages-jewellery-bangles-2-fc1ce396.png",
+      "https://img1.wsimg.com/isteam/getty/1292914757",
+      "https://img1.wsimg.com/isteam/getty/1718393289",
+      "https://img1.wsimg.com/isteam/getty/1456832756"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-23T11:57:35.018Z",
+    "lastUpdated": "2026-08-24T14:17:41.189Z",
+    "alternativeGettyIds": [
+      "",
+      "1292914757",
+      "1718393289",
+      "1456832756"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-bangles-2-ad4859a5.png": "pfzj1wmq28_1787567500962_file_yDaoZ6SGlA.png",
+      "/airo-assets/uploads/pages-jewellery-bangles-2-fc1ce396.png": "pfzj1wmq28_1787568178417_file_V2-3sFhgZK.png"
+    },
+    "uploadContentHash": "4e9cd6b3bed5a22e18aac7fcdd2228e8a41ca95016ab58a8323811a9453f279a",
+    "caption": "emerald diamond bracelets jewelry display"
+  },
+  "pages/jewellery/set-2": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1569972088",
+    "searchQuery": "bridal jewellery set necklace earrings bangles gold",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1463711338",
+      "https://img1.wsimg.com/isteam/getty/2169446823"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-23T11:57:36.288Z",
+    "lastUpdated": "2026-08-23T11:57:36.288Z",
+    "gettyId": "1569972088",
+    "alternativeGettyIds": [
+      "1463711338",
+      "2169446823"
+    ],
+    "caption": "rose gold blue gemstone jewelry set"
+  },
+  "pages/jewellery/ring-2": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-ring-2-f5802ee1.jpg",
+    "searchQuery": "diamond cocktail ring luxury jewelry display",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/879055278",
+      "https://img1.wsimg.com/isteam/getty/884276498",
+      "https://img1.wsimg.com/isteam/getty/947182296"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-23T11:57:36.598Z",
+    "lastUpdated": "2026-08-23T13:09:52.512Z",
+    "alternativeGettyIds": [
+      "879055278",
+      "884276498",
+      "947182296"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-ring-2-f5802ee1.jpg": "pfzj1wmq28_1787490476358_file_F-jcNsr3x1.jpeg"
+    },
+    "uploadContentHash": "8fc0c125477ca42c5c70f24a8b661da00b92404a1a3f9059564f6695c6a6e396",
+    "caption": "diamond cocktail ring luxury jewelry display"
+  },
+  "pages/jewellery/bangles-1": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-bangles-1-fc1ce396.png",
+    "searchQuery": "diamond bracelets on marble display table",
+    "alternatives": [
+      "/airo-assets/uploads/pages-jewellery-bangles-1-81b46c73.png",
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787494527616_file_L4C38ciMhq.png?sig=qP4bTLW1YjWzz5wcefr2_V_8B9H5Adb7i657RLVtxFM&exp=1787581002",
+      "https://img1.wsimg.com/isteam/getty/2169446823",
+      "https://img1.wsimg.com/isteam/getty/2270289912",
+      "https://img1.wsimg.com/isteam/getty/2263765061"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-23T11:57:38.537Z",
+    "lastUpdated": "2026-08-24T14:24:06.202Z",
+    "alternativeGettyIds": [
+      "",
+      "",
+      "2169446823",
+      "2270289912",
+      "2263765061"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-bangles-1-81b46c73.png": "pfzj1wmq28_1787566621357_file_MrAd7-iWqC.png",
+      "/airo-assets/uploads/pages-jewellery-bangles-1-fc1ce396.png": "pfzj1wmq28_1787581186796_file_V-fNdIbYQi.png"
+    },
+    "uploadContentHash": "7508ddc3247b9c3efa0b9736af15ef1b620d0e558a752a458a0cc3e3b95a6efa",
+    "caption": "diamond bracelets on marble display table"
+  },
+  "pages/jewellery/earrings-1": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-earrings-1-f2890924.png",
+    "searchQuery": "diamond chandelier earrings elegant jewelry",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2214099076",
+      "https://img1.wsimg.com/isteam/getty/2215150308",
+      "https://img1.wsimg.com/isteam/getty/1474789549"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-23T11:57:38.910Z",
+    "lastUpdated": "2026-08-24T10:56:35.328Z",
+    "alternativeGettyIds": [
+      "2214099076",
+      "2215150308",
+      "1474789549"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-earrings-1-f2890924.png": "pfzj1wmq28_1787568986216_file_XC4H5Y3sRJ.png"
+    },
+    "uploadContentHash": "ddb0acc7476541face17804ffb8488e8e19532b8bbbe871427daedbb0cb987bf",
+    "caption": "diamond chandelier earrings elegant jewelry"
+  },
+  "pages/jewellery/ring-1": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-ring-1-c7637c5c.jpg",
+    "searchQuery": "ornate emerald diamond cocktail ring",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1894518669",
+      "https://img1.wsimg.com/isteam/getty/2287406193",
+      "https://img1.wsimg.com/isteam/getty/2287406295"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-23T11:57:40.347Z",
+    "lastUpdated": "2026-08-23T13:09:37.249Z",
+    "alternativeGettyIds": [
+      "1894518669",
+      "2287406193",
+      "2287406295"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-ring-1-c7637c5c.jpg": "pfzj1wmq28_1787490343882_file_RaOrfjb_UY.jpeg"
+    },
+    "uploadContentHash": "6fcc19e5d695ff4a74614989736d043c5274c3e422d0564b72c97e86151e84d3",
+    "caption": "ornate emerald diamond cocktail ring"
+  },
+  "pages/jewellery/hero": {
+    "requestedSize": {
+      "width": 1440,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2266510702",
+    "searchQuery": "luxury gold jewellery collection elegant dark background",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1299139185",
+      "https://img1.wsimg.com/isteam/getty/2289258565"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-23T11:57:44.185Z",
+    "lastUpdated": "2026-08-23T11:57:44.185Z",
+    "gettyId": "2266510702",
+    "alternativeGettyIds": [
+      "1299139185",
+      "2289258565"
+    ]
+  },
+  "uploads/hero-pfzj1wmq28-1787490476358-file-f-jcnsr3x1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787490476358-file-f-jcnsr3x1-f5802ee1.jpg",
+    "searchQuery": "diamond cocktail ring luxury jewelry display",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-23T13:14:46.044Z",
+    "lastUpdated": "2026-08-23T13:14:46.044Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787490476358-file-f-jcnsr3x1-f5802ee1.jpg": "pfzj1wmq28_1787490476358_file_F-jcNsr3x1.jpeg"
+    },
+    "uploadContentHash": "8fc0c125477ca42c5c70f24a8b661da00b92404a1a3f9059564f6695c6a6e396",
+    "caption": "diamond cocktail ring luxury jewelry display"
+  },
+  "pages/sarees/ivory-blossom-embroidered-saree": {
+    "mediaType": "image",
+    "currentUrl": "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787494527616_file_L4C38ciMhq.png?sig=qP4bTLW1YjWzz5wcefr2_V_8B9H5Adb7i657RLVtxFM&exp=1787581002",
+    "searchQuery": "woman wearing cream embroidered saree indoors",
+    "alternatives": [
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787494527616_file_L4C38ciMhq.png?sig=qP4bTLW1YjWzz5wcefr2_V_8B9H5Adb7i657RLVtxFM&exp=1787581002"
+    ],
+    "userModified": false,
+    "sourceRef": "src/pages/sarees.tsx:158",
+    "createdAt": "2026-08-23T14:16:55.402Z",
+    "lastUpdated": "2026-08-23T14:16:55.402Z",
+    "caption": "woman wearing cream embroidered saree indoors"
+  },
+  "uploads/hero-pfzj1wmq28-1787495531356-file-17goy97tml": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787495531356-file-17goy97tml-b0b44e37.jpg",
+    "searchQuery": "woman wearing orange saree traditional courtyard",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-23T14:38:35.207Z",
+    "lastUpdated": "2026-08-23T14:54:32.779Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787495531356-file-17goy97tml-b0b44e37.jpg": "pfzj1wmq28_1787495531356_file_17GoY97tmL.jpeg"
+    },
+    "uploadContentHash": "6c728cf31d6416ce2b318f1470dd42f0663bdbd079ff6f3559cb9403bb7175d5",
+    "caption": "woman wearing orange saree traditional courtyard"
+  },
+  "pages/sarees/golden-heritage-embroidered-saree": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-sarees-golden-heritage-embroidered-saree-dbec2fbe.png",
+    "searchQuery": "woman in golden sari palace courtyard",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-featured-1-9c7192d6.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/sarees.tsx:139",
+    "createdAt": "2026-08-23T15:19:06.409Z",
+    "lastUpdated": "2026-08-23T15:19:20.826Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-sarees-golden-heritage-embroidered-saree-dbec2fbe.png": "pfzj1wmq28_1787497960313_file_Gg61uJNGxS.png"
+    },
+    "uploadContentHash": "dd0b5284b0b8b4f1d2bd02360d1bfd094054a4e7721a5e91e95e020cbb93b3e1",
+    "caption": "woman in golden sari palace courtyard"
+  },
+  "uploads/hero-pfzj1wmq28-1787501622487-file-psqt1fxu6z": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787501622487-file-psqt1fxu6z-244f401c.png",
+    "searchQuery": "woman wearing gold embroidered lehenga skirt",
+    "alternatives": [
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787501622487-file-psqt1fxu6z-e7b1c761.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-23T16:20:07.650Z",
+    "lastUpdated": "2026-08-23T16:45:03.567Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787501622487-file-psqt1fxu6z-e7b1c761.png": "pfzj1wmq28_1787501622487_file_PsQt1FXu6Z.png",
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787501622487-file-psqt1fxu6z-244f401c.png": "pfzj1wmq28_1787502691425_file_PNbmGcK5mS.png"
+    },
+    "uploadContentHash": "c685a09f2513d1cceefc345de63291ec2dfcec49440e7d2062beb8781f1da3ae",
+    "caption": "woman wearing gold embroidered lehenga skirt"
+  },
+  "pages/clothing/mustard-gold-embroidered-draped-set": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787501622487-file-psqt1fxu6z-244f401c.png",
+    "searchQuery": "woman wearing gold embroidered lehenga skirt",
+    "alternatives": [
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787501622487-file-psqt1fxu6z-e7b1c761.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/clothing.tsx:137",
+    "createdAt": "2026-08-23T16:45:11.450Z",
+    "lastUpdated": "2026-08-23T16:46:49.961Z",
+    "caption": "woman wearing gold embroidered lehenga skirt"
+  },
+  "pages/clothing/blue-printed-kurta-trouser-set": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-clothing-blue-printed-kurta-trouser-set-5a8a8f9f.png",
+    "searchQuery": "woman in patterned coat walking city street",
+    "alternatives": [
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787501622487-file-psqt1fxu6z-e7b1c761.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/clothing.tsx:137",
+    "createdAt": "2026-08-23T16:46:58.149Z",
+    "lastUpdated": "2026-08-23T16:48:35.616Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-clothing-blue-printed-kurta-trouser-set-5a8a8f9f.png": "pfzj1wmq28_1787502606487_file_jicn3USzhM.png"
+    },
+    "uploadContentHash": "102060b8c0656f8a3e07e5d429b2664e195dfb0e5c6c89117a9c394eb409ff97",
+    "caption": "woman in patterned coat walking city street"
+  },
+  "pages/sarees/ivory-blossom-embroidered-saree-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-sarees-ivory-blossom-embroidered-saree-2-02b6f274.png",
+    "searchQuery": "woman wearing cream embroidered saree",
+    "alternatives": [
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787494527616_file_L4C38ciMhq.png?sig=qP4bTLW1YjWzz5wcefr2_V_8B9H5Adb7i657RLVtxFM&exp=1787581002"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/sarees.tsx:224",
+    "createdAt": "2026-08-24T14:53:10.277Z",
+    "lastUpdated": "2026-08-24T14:53:37.129Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-sarees-ivory-blossom-embroidered-saree-2-02b6f274.png": "pfzj1wmq28_1787494527616_file_L4C38ciMhq.png"
+    },
+    "uploadContentHash": "06657f2bb59843f03090f7f2053b86f5578ab899f38669bc88c24b642024123d",
+    "caption": "woman wearing cream embroidered saree"
+  },
+  "pages/jewellery/earrings-3": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-earrings-3-c6c364d8.png",
+    "searchQuery": "diamond snowflake earrings jewelry box",
+    "alternatives": [
+      "/airo-assets/uploads/pages-jewellery-earrings-3-aee01d0c.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-25T15:15:41.241Z",
+    "lastUpdated": "2026-08-25T18:28:22.932Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-earrings-3-c6c364d8.png": "pfzj1wmq28_1787670905724_file_fH_G0yUHmh.PNG",
+      "/airo-assets/uploads/pages-jewellery-earrings-3-aee01d0c.png": "pfzj1wmq28_1787681628915_file_f1ipx_blHK.png"
+    },
+    "uploadContentHash": "60ad6546f1879e742bdcd9c523e3b46b2b749e7a9f46696791aaa2625c618190",
+    "caption": "diamond snowflake earrings jewelry box"
+  },
+  "pages/jewellery/golden-heart-huggie-earrings": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-earrings-3-c6c364d8.png",
+    "searchQuery": "diamond snowflake earrings jewelry box",
+    "alternatives": [
+      "/airo-assets/uploads/pages-jewellery-earrings-3-c6c364d8.png"
+    ],
+    "userModified": false,
+    "sourceRef": "src/pages/jewellery.tsx:519",
+    "createdAt": "2026-08-25T18:23:47.004Z",
+    "lastUpdated": "2026-08-25T18:23:47.004Z",
+    "caption": "diamond snowflake earrings jewelry box"
+  },
+  "uploads/hero-pfzj1wmq28-1787676637625-file-6rkzvxpvms": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787676637625-file-6rkzvxpvms-e1d15241.png",
+    "searchQuery": "gold heart earrings with ruby gemstones",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-25T18:36:47.270Z",
+    "lastUpdated": "2026-08-25T18:37:21.596Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787676637625-file-6rkzvxpvms-e1d15241.png": "pfzj1wmq28_1787676637625_file_6rkZVxpvms.png"
+    },
+    "uploadContentHash": "b77a9803c0f616c23ada42e249a39e68f96e33ffdca7b51c4e29ef043f2f34ee",
+    "caption": "gold heart earrings with ruby gemstones"
+  },
+  "uploads/hero-pfzj1wmq28-1787681631024-file-rrtyyvska6": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681631024-file-rrtyyvska6-62d1e687.png",
+    "searchQuery": "silver crystal leaf hair clips pair",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-25T18:36:51.409Z",
+    "lastUpdated": "2026-08-25T18:36:58.172Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681631024-file-rrtyyvska6-62d1e687.png": "pfzj1wmq28_1787681631024_file_rrtyYvSKa6.png"
+    },
+    "uploadContentHash": "a9fa1cd7e69232abe4501adafd54c59885e867073df0d8c77c44767bd46610cb",
+    "caption": "silver crystal leaf hair clips pair"
+  },
+  "uploads/hero-pfzj1wmq28-1787681631029-file-05qh4r5dgz": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681631029-file-05qh4r5dgz-025f6d1b.png",
+    "searchQuery": "square diamond stud earrings on marble surface",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-25T18:37:01.534Z",
+    "lastUpdated": "2026-08-25T18:37:01.534Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681631029-file-05qh4r5dgz-025f6d1b.png": "pfzj1wmq28_1787681631029_file_05Qh4r5dGz.png"
+    },
+    "uploadContentHash": "7fea32b1c8a362a008965a2ce9fa2fe59e2db770957ef9d211739dbd81c27632",
+    "caption": "square diamond stud earrings on marble surface"
+  },
+  "uploads/hero-pfzj1wmq28-1787681628930-file-pbvb2-zvt": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681628930-file-pbvb2-zvt-66088227.png",
+    "searchQuery": "gold diamond hoop earrings on marble surface",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-25T18:37:24.002Z",
+    "lastUpdated": "2026-08-25T18:37:24.002Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681628930-file-pbvb2-zvt-66088227.png": "pfzj1wmq28_1787681628930_file_-pBVb2_zvT.png"
+    },
+    "uploadContentHash": "8adfbc562b259f131a95ebc8a82fc2b3328a9711b24f4d11bff5b6807d7f9b7e",
+    "caption": "gold diamond hoop earrings on marble surface"
+  },
+  "uploads/hero-pfzj1wmq28-1787681628926-file-lj0a7sko0v": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681628926-file-lj0a7sko0v-61ce0706.png",
+    "searchQuery": "gold pearl flower earrings with square gemstones",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-25T18:37:27.305Z",
+    "lastUpdated": "2026-08-25T18:37:27.305Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681628926-file-lj0a7sko0v-61ce0706.png": "pfzj1wmq28_1787681628926_file_Lj0A7skO0v.png"
+    },
+    "uploadContentHash": "8ed5ea436c902529487a8bfe7fa52f1b42a9a233469e4965a84bc7c834491fb0",
+    "caption": "gold pearl flower earrings with square gemstones"
+  },
+  "uploads/hero-pfzj1wmq28-1787681628923-file-rpf0rahh33": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681628923-file-rpf0rahh33-ed86d21a.png",
+    "searchQuery": "gold jewelry rings with colorful gemstones",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-25T18:37:30.265Z",
+    "lastUpdated": "2026-08-25T18:37:30.265Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681628923-file-rpf0rahh33-ed86d21a.png": "pfzj1wmq28_1787681628923_file_rpf0raHh33.png"
+    },
+    "uploadContentHash": "2e36133876fa7dfcf6f487835849c29034869844f4a307639a5f9e90c5f943af",
+    "caption": "gold jewelry rings with colorful gemstones"
+  },
+  "uploads/hero-pfzj1wmq28-1787681628920-file-vzyfjex9xk": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681628920-file-vzyfjex9xk-0e1a0c03.png",
+    "searchQuery": "gold diamond hoop earrings with gemstones",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-25T18:37:34.809Z",
+    "lastUpdated": "2026-08-25T18:37:34.809Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681628920-file-vzyfjex9xk-0e1a0c03.png": "pfzj1wmq28_1787681628920_file_VzyfjEX9xK.png"
+    },
+    "uploadContentHash": "9fa6af8430244920c65a718b70e189380053752c72db398e5089ddef4888504b",
+    "caption": "gold diamond hoop earrings with gemstones"
+  },
+  "uploads/hero-pfzj1wmq28-1787681628915-file-f1ipx-blhk": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681628915-file-f1ipx-blhk-aee01d0c.png",
+    "searchQuery": "gold heart diamond hoop earrings",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-25T18:37:37.951Z",
+    "lastUpdated": "2026-08-25T18:37:37.951Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681628915-file-f1ipx-blhk-aee01d0c.png": "pfzj1wmq28_1787681628915_file_f1ipx_blHK.png"
+    },
+    "uploadContentHash": "60ad6546f1879e742bdcd9c523e3b46b2b749e7a9f46696791aaa2625c618190",
+    "caption": "gold heart diamond hoop earrings"
+  },
+  "uploads/hero-pfzj1wmq28-1787681631036-file-ei3tnzlsnk": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681631036-file-ei3tnzlsnk-bf4b00b6.png",
+    "searchQuery": "gold wedding bands with floral accents",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-25T18:37:40.673Z",
+    "lastUpdated": "2026-08-25T18:37:40.673Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681631036-file-ei3tnzlsnk-bf4b00b6.png": "pfzj1wmq28_1787681631036_file_eI3tNZLsNk.png"
+    },
+    "uploadContentHash": "25d464a2d5f25b325edcea58f1e2d7a44766ca15956d4f91ba91e990061da24a",
+    "caption": "gold wedding bands with floral accents"
+  },
+  "uploads/hero-pfzj1wmq28-1787681631033-file-r6jaqga5nm": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681631033-file-r6jaqga5nm-7dad89d8.png",
+    "searchQuery": "gold earrings with green gemstones on marble surface",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-08-25T18:37:43.216Z",
+    "lastUpdated": "2026-08-25T18:37:43.216Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681631033-file-r6jaqga5nm-7dad89d8.png": "pfzj1wmq28_1787681631033_file_R6jAqgA5Nm.png"
+    },
+    "uploadContentHash": "9f8693871e611dccbbb7e5426fdaddf6e60e47da67b7ae50af94d8a541e65211",
+    "caption": "gold earrings with green gemstones on marble surface"
+  },
+  "generated/bridal-jewellery-set-necklace-earrings-b-ohu03B": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/bridal-jewellery-set-necklace-earrings-b-7Qi-VU.png",
+    "searchQuery": "bridal gold necklace earrings bangles set",
+    "caption": "bridal gold necklace earrings bangles set",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/bridal-jewellery-set-necklace-earrings-b-7Qi-VU.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-08-25T18:48:25.091Z",
+    "lastUpdated": "2026-08-25T18:48:25.091Z"
+  },
+  "pages/jewellery/ruby-heart-crystal-hoops": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787676637625-file-6rkzvxpvms-e1d15241.png",
+    "searchQuery": "gold heart earrings with ruby gemstones",
+    "alternatives": [
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787676637625_file_6rkZVxpvms.png?sig=p_H1mp-GEaI2DjIjiyrMBRnhzHl23pnN2YZeDJwhvF4&exp=1787770825"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/jewellery.tsx:519",
+    "createdAt": "2026-08-25T19:14:08.793Z",
+    "lastUpdated": "2026-08-25T19:14:35.239Z",
+    "caption": "gold heart earrings with ruby gemstones"
+  },
+  "pages/jewellery/golden-heritage-scroll-hoops": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681631036-file-ei3tnzlsnk-bf4b00b6.png",
+    "searchQuery": "gold wedding bands with floral accents",
+    "alternatives": [
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787681631036_file_eI3tNZLsNk.png?sig=gdzVMI2eCNnyyRQVAcDZv_H-gm-Oj3P98W9TmBZUkvM&exp=1787771412"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/jewellery.tsx:519",
+    "createdAt": "2026-08-26T05:33:23.544Z",
+    "lastUpdated": "2026-08-26T05:34:28.680Z",
+    "caption": "gold wedding bands with floral accents"
+  },
+  "pages/jewellery/silver-royal-crystal-stud-earrings": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-silver-royal-crystal-stud-earrings-8b54658a.png",
+    "searchQuery": "diamond earrings and loose gemstone display",
+    "alternatives": [
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787681631040_file_C_KiyEhIU8.png?sig=JaML4T798WFrflR037Ty16U7vmFYgr4Hg0xfVhef9eI&exp=1787771349"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/jewellery.tsx:519",
+    "createdAt": "2026-08-26T05:37:49.158Z",
+    "lastUpdated": "2026-08-26T09:56:57.730Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-silver-royal-crystal-stud-earrings-8b54658a.png": "pfzj1wmq28_1787738184536_file_ruAZ2y9dRb.png"
+    },
+    "uploadContentHash": "8309ed3e0febc30f088c34dbeb7e5c559360447b24a44231de15ec505f703d60",
+    "caption": "diamond earrings and loose gemstone display"
+  },
+  "pages/jewellery/emerald-gold-huggie-earrings": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681631033-file-r6jaqga5nm-7dad89d8.png",
+    "searchQuery": "gold earrings with green gemstones on marble surface",
+    "alternatives": [
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787681631033_file_R6jAqgA5Nm.png?sig=pVcQULYZk8P_GEBWoykt-27pMVUP2mYpeb0AqdknjTY&exp=1787771315"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/jewellery.tsx:519",
+    "createdAt": "2026-08-26T05:38:29.857Z",
+    "lastUpdated": "2026-08-26T05:56:11.021Z",
+    "caption": "gold earrings with green gemstones on marble surface"
+  },
+  "pages/jewellery/silver-square-crystal-stud-earrings": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-pfzj1wmq28-1787681631029-file-05qh4r5dgz-025f6d1b.png",
+    "searchQuery": "square diamond stud earrings on marble surface",
+    "alternatives": [
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787681631029_file_05Qh4r5dGz.png?sig=BCPzqf9Xg1j1jLTTXkZyQ5ENrY-bDp2PVXcMT-tSf2Y&exp=1787771268"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/jewellery.tsx:519",
+    "createdAt": "2026-08-26T05:56:37.994Z",
+    "lastUpdated": "2026-08-26T08:26:00.933Z",
+    "caption": "square diamond stud earrings on marble surface"
+  },
+  "pages/jewellery/silver-leaf-crystal-earrings": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-silver-leaf-crystal-earrings-62d1e687.png",
+    "searchQuery": "silver leaf crystal earrings on marble surface",
+    "alternatives": [
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787681631024_file_rrtyYvSKa6.png?sig=WRW0KvbePFQqksTFa7rljer1TiOslUe8FCmjz-V7Y3E&exp=1787770895"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/jewellery.tsx:519",
+    "createdAt": "2026-08-26T09:37:08.519Z",
+    "lastUpdated": "2026-08-26T09:38:28.356Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-silver-leaf-crystal-earrings-62d1e687.png": "pfzj1wmq28_1787681631024_file_rrtyYvSKa6.png"
+    },
+    "uploadContentHash": "a9fa1cd7e69232abe4501adafd54c59885e867073df0d8c77c44767bd46610cb",
+    "caption": "silver leaf crystal earrings on marble surface"
+  },
+  "pages/jewellery/golden-circle-crystal-hoops": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-golden-circle-crystal-hoops-66088227.png",
+    "searchQuery": "gold diamond-encrusted hoop earrings display",
+    "alternatives": [
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787681628930_file_-pBVb2_zvT.png?sig=-5Y7qNJ6Iv2QLP4UONI3YyIKNtuFd65W7QRcfkrKS9Q&exp=1787771182"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/jewellery.tsx:519",
+    "createdAt": "2026-08-26T09:39:02.475Z",
+    "lastUpdated": "2026-08-26T09:40:19.850Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-golden-circle-crystal-hoops-66088227.png": "pfzj1wmq28_1787681628930_file_-pBVb2_zvT.png"
+    },
+    "uploadContentHash": "8adfbc562b259f131a95ebc8a82fc2b3328a9711b24f4d11bff5b6807d7f9b7e",
+    "caption": "gold diamond-encrusted hoop earrings display"
+  },
+  "pages/jewellery/pearl-blossom-crystal-earrings": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-pearl-blossom-crystal-earrings-61ce0706.png",
+    "searchQuery": "gold pearl flower earrings with gemstones",
+    "alternatives": [
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787681628926_file_Lj0A7skO0v.png?sig=05NFwUhOBJKkt5pylK80tbF2YwDXFMiqoeSAA8iactw&exp=1787771135"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/jewellery.tsx:519",
+    "createdAt": "2026-08-26T09:40:41.894Z",
+    "lastUpdated": "2026-08-26T09:41:38.088Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-pearl-blossom-crystal-earrings-61ce0706.png": "pfzj1wmq28_1787681628926_file_Lj0A7skO0v.png"
+    },
+    "uploadContentHash": "8ed5ea436c902529487a8bfe7fa52f1b42a9a233469e4965a84bc7c834491fb0",
+    "caption": "gold pearl flower earrings with gemstones"
+  },
+  "pages/jewellery/golden-crystal-wing-hoop-earrings": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-jewellery-golden-crystal-wing-hoop-earrings-0e1a0c03.png",
+    "searchQuery": "gold diamond hoop earrings with pavé wings",
+    "alternatives": [
+      "https://pfzj1wmq28.agent.c35.airoapp.ai/files/uploads/pfzj1wmq28/pfzj1wmq28_1787681628920_file_VzyfjEX9xK.png?sig=UAF9vpx6B27FHdUnWl5lyocr_EO3jPeGt1PcFjuRibE&exp=1787771061"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/jewellery.tsx:519",
+    "createdAt": "2026-08-26T09:41:58.554Z",
+    "lastUpdated": "2026-08-26T09:42:41.513Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-jewellery-golden-crystal-wing-hoop-earrings-0e1a0c03.png": "pfzj1wmq28_1787681628920_file_VzyfjEX9xK.png"
+    },
+    "uploadContentHash": "9fa6af8430244920c65a718b70e189380053752c72db398e5089ddef4888504b",
+    "caption": "gold diamond hoop earrings with pavé wings"
+  }
+}
