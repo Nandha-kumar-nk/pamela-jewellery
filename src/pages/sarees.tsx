@@ -1111,7 +1111,7 @@ export default function SareesPage() {
               100%;
 
             object-fit:
-              contain;
+              cover;
 
             object-position:
               center;
@@ -1134,7 +1134,7 @@ export default function SareesPage() {
           .product-image img {
 
             transform:
-              none;
+              scale(1.045);
           }
 
 
