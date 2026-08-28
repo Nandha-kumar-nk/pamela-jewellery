@@ -411,9 +411,7 @@ export default function JewelleryPage() {
   return (
     <>
       <Helmet>
-        <title>
-          Waterproof Jewellery Collection | Pamela's Couture
-        </title>
+        <title>Pamela's Couture | Jewellery</title>
 
         <meta
           name="description"

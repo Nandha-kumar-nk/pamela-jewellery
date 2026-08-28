@@ -33,7 +33,7 @@ function WhatsAppIcon({ size = 15 }: { size?: number }) {
 
 const site = 'https://pfzj1wmq28.preview.c35.airoapp.ai';
 const pageUrl = `${site}/about`;
-const pageTitle = "About Us — Pamela's Couture";
+const pageTitle = "Pamela's Couture | About Us";
 const pageDesc = "Pamela's Couture brings together elegant women's fashion and exquisite waterproof jewellery, thoughtfully selected for women who appreciate timeless style.";
 
 export default function AboutPage() {

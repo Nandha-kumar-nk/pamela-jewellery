@@ -105,9 +105,7 @@ export default function HomePage() {
 
       <Helmet>
 
-        <title>
-          Pamela's Couture | Women's Fashion &amp; Waterproof Jewellery
-        </title>
+        <title>Pamela's Couture | Home</title>
 
         <meta
           name="description"

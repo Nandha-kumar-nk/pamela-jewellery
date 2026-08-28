@@ -42,7 +42,7 @@ export default function ClothingPage() {
   return (
     <>
       <Helmet>
-        <title>Women's Clothing | Pamela's Couture</title>
+        <title>Pamela's Couture | Clothing</title>
 
         <meta
           name="description"

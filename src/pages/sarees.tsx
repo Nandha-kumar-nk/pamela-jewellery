@@ -99,9 +99,7 @@ export default function SareesPage() {
     <>
       <Helmet>
 
-        <title>
-          Elegant Sarees | Pamela's Couture
-        </title>
+        <title>Pamela's Couture | Elegant Sarees</title>
 
         <meta
           name="description"

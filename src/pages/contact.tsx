@@ -41,7 +41,7 @@ export default function ContactPage() {
 
   const site = 'https://pfzj1wmq28.preview.c35.airoapp.ai';
   const url = `${site}/contact`;
-  const title = "Contact Us — Pamela's Couture";
+  const title = "Pamela's Couture | Contact Us";
   const description = "Get in touch with Pamela's Couture. Chat on WhatsApp, email or call us for product enquiries, availability and ordering assistance.";
 
   return (
