@@ -153,7 +153,7 @@ const products = [
   category: 'Earrings',
   subtitle: 'Elegant Emerald-Green Statement Earrings',
   desc: 'A striking pair of emerald-green statement earrings featuring a bold bow-inspired design, rich green stones, and sparkling crystal accents. Set against a sophisticated silver-tone finish, these earrings add a luxurious touch to weddings, festive celebrations, parties, and evening occasions.',
-  price: 800,
+  price: 1000,
   image: '/images/jewellery/earrings/e2.png'
 },
 
@@ -282,6 +282,177 @@ const products = [
   desc: 'Beautiful gold-tone hoop earrings featuring vibrant ruby, emerald, and sparkling stone accents in an elegant floral-inspired design. Perfect for adding a stylish and luxurious touch to festive and everyday outfits.',
   price: 160,
   image: '/images/jewellery/earrings/e16.png'
+},
+{
+  id: 'e17',
+  name: 'Mint Green Stone Floral Jhumka Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Silver Jhumkas with Mint Green Stones',
+  desc: 'Exquisite silver-tone jhumka earrings featuring delicate floral leaf detailing, sparkling stones, and beautiful mint green gemstone accents. A graceful statement piece designed to add a luxurious touch to festive, traditional, and special occasion outfits.',
+  price: 1200,
+  image: '/images/jewellery/earrings/e17.1.png'
+},
+{
+  id: 'e18',
+  name: 'Mint Green Leaf Jhumka Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Silver Jhumkas with Mint Green Stones',
+  desc: 'A stunning pair of silver-tone jhumka earrings featuring intricate leaf-inspired detailing, sparkling stones, and elegant mint green gemstones. Designed to add a luxurious and graceful touch to festive, traditional, and special occasion outfits.',
+  price: 1400,
+  image: '/images/jewellery/earrings/e18.2.png'
+},
+{
+  id: 'e18.3',
+  name: 'Pink Gemstone Leaf Jhumka Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Pink Stone Jhumka Earrings',
+  desc: 'A luxurious pair of silver-tone jhumka earrings featuring beautiful pink gemstones, sparkling crystal detailing, and an intricate leaf-inspired cascade design. A graceful statement piece perfect for weddings, festive occasions, parties, and elegant evening wear.',
+  price: 1400,
+  image: '/images/jewellery/earrings/e18.3.png'
+},
+{
+  id: 'e19',
+  name: 'Royal Sapphire Jhumka Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Blue Sapphire Chandelier Jhumkas',
+  desc: 'A stunning pair of silver-tone jhumka earrings featuring deep blue sapphire-inspired gemstones, sparkling marquise accents, and an intricate chandelier design. A luxurious statement piece perfect for weddings, festive occasions, parties, and evening wear.',
+  price: 1400,
+  image: '/images/jewellery/earrings/e19.png'
+},
+{
+  id: 'e20',
+  name: 'Ruby Leaf Crystal Stud Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Ruby Studs with Crystal Leaf Detailing',
+  desc: 'Elegant silver-tone stud earrings featuring deep ruby-red gemstones framed with sparkling crystals and delicate leaf-inspired detailing. A sophisticated statement piece perfect for festive occasions, parties, celebrations, and elegant evening wear.',
+  price: 840,
+  image: '/images/jewellery/earrings/e20.png'
+},
+{
+  id: 'e21',
+  name: 'Emerald Butterfly Crystal Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Emerald Earrings with Crystal Butterfly Detailing',
+  desc: 'A stunning pair of silver-tone earrings featuring deep emerald-green gemstones surrounded by sparkling crystals and intricate butterfly-inspired detailing. Designed to bring a luxurious and sophisticated touch to festive occasions, parties, celebrations, and elegant evening wear.',
+  price: 840,
+  image: '/images/jewellery/earrings/e21.png'
+},
+{
+  id: 'e21.1',
+  name: 'Royal Purple Floral Drop Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Purple Gemstone Earrings with Floral Detailing',
+  desc: 'A sophisticated pair of silver-tone earrings featuring deep purple faceted gemstones surrounded by sparkling crystals and intricate floral and leaf-inspired detailing. Designed to bring a luxurious and elegant touch to weddings, festive occasions, parties, celebrations, and evening wear.',
+  price: 840,
+  image: '/images/jewellery/earrings/e21.1.png'
+},
+{
+  id: 'e21.2',
+  name: 'Royal Crystal Floral Drop Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Crystal Earrings with Floral Detailing',
+  desc: 'A luxurious pair of silver-tone drop earrings featuring brilliant clear faceted gemstones surrounded by sparkling crystals and intricate floral, leaf, and scroll-inspired detailing. A sophisticated statement design perfect for weddings, parties, festive occasions, celebrations, and elegant evening wear.',
+  price: 840,
+  image: '/images/jewellery/earrings/e21.2.png'
+},
+{
+  id: 'e22',
+  name: 'Emerald Crystal Floral Jhumka Earrings',
+  category: 'Earrings',
+  subtitle: 'Emerald Drop Earrings with Crystal Floral Detailing',
+  desc: 'A luxurious pair of silver-tone earrings featuring rich emerald-green gemstones, sparkling crystal accents, and intricate floral-inspired detailing with elegant hanging drops. Perfect for festive occasions, celebrations, parties, and sophisticated traditional looks.',
+  price: 1200,
+  image: '/images/jewellery/earrings/e22.png'
+},
+{
+  id: 'e23',
+  name: 'Crystal Layered Statement Drop Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Geometric Crystal Drop Earrings',
+  desc: 'A glamorous pair of silver-tone statement earrings featuring sparkling crystal detailing, elegant layered geometric patterns, floral-inspired accents, and delicate teardrop drops. Perfect for weddings, festive occasions, parties, celebrations, and sophisticated evening wear.',
+  price: 1200,
+  image: '/images/jewellery/earrings/e23.png'
+},
+{
+  id: 'e24',
+  name: 'Emerald Teardrop Crystal Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Emerald Teardrop Statement Earrings',
+  desc: 'A stunning pair of silver-tone earrings featuring rich emerald-green teardrop gemstones surrounded by sparkling crystal detailing. The elegant double-drop design creates a luxurious and sophisticated look, perfect for festive occasions, parties, celebrations, and evening wear.',
+  price: 620,
+  image: '/images/jewellery/earrings/e24.png'
+},
+{
+  id: 'e25',
+  name: 'Floral Crystal Hoop Drop Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Floral Crystal Statement Earrings',
+  desc: 'A dazzling pair of silver-tone earrings featuring intricate floral tops, elegant circular crystal hoops, delicate jhumka-inspired details, and sparkling drop accents. Perfect for weddings, festive occasions, celebrations, parties, and sophisticated evening wear.',
+  price: 1200,
+  image: '/images/jewellery/earrings/e25.png'
+},
+{
+  id: 'e26',
+  name: 'Crystal Geometric Drop Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Crystal Statement Drop Earrings',
+  desc: 'A sophisticated pair of silver-tone drop earrings featuring oval-cut center stones, sparkling crystal borders, and intricate geometric detailing. The elongated design creates a graceful statement look, perfect for weddings, festive occasions, parties, celebrations, and elegant evening wear.',
+  price: 1050,
+  image: '/images/jewellery/earrings/e26.png'
+},
+{
+  id: 'e27',
+  name: 'Emerald Floral Gemstone Earrings',
+  category: 'Earrings',
+  subtitle: 'Green Gemstone Floral Stud Earrings',
+  desc: 'Elegant silver-tone floral earrings featuring rich green gemstone accents and sparkling stone details. A sophisticated statement design suitable for festive occasions, parties, and special events.',
+  price: 1040,
+  image: '/images/jewellery/earrings/e27.png'
+},
+{
+  id: 'e28',
+  name: 'Sparkle Disc Floral Stud Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Silver Floral Stud Earrings',
+  desc: 'Elegant silver-tone stud earrings featuring a beautiful clustered floral design with sparkling cubic zirconia accents. The intricate circular arrangement gives these earrings a sophisticated and modern look, perfect for everyday wear, parties, festive occasions, and special events.',
+  price: 1040,
+  image: '/images/jewellery/earrings/e28.png'
+},
+{
+  id: 'e29',
+  name: 'Pink Gemstone Tiered Chandelier Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Pink Stone Tiered Drop Earrings',
+  desc: 'Elegant silver-tone chandelier earrings featuring a delicate pink gemstone surrounded by sparkling stones, with cascading tiers of baguette-cut crystals arranged in a graceful fan-inspired design. Perfect for weddings, parties, festive occasions, and elegant evening wear.',
+  price: 900,
+  image: '/images/jewellery/earrings/e29.png'
+},
+{
+  id: 'e30',
+  name: 'Aqua Bloom Fan Drop Earrings',
+  category: 'Earrings',
+  subtitle: 'Silver Fan Drops with Aqua Blue Gemstones',
+  desc: 'Elegant silver-tone drop earrings featuring delicate aqua blue teardrop gemstones surrounded by sparkling floral accents and layered fan-shaped baguette stones. A sophisticated statement design, perfect for festive occasions, parties, weddings, and evening wear.',
+  price: 900,
+  image: '/images/jewellery/earrings/e30.png'
+},
+{
+  id: 'e31',
+  name: 'Crystal Bloom Fan Drop Earrings',
+  category: 'Earrings',
+  subtitle: 'Silver Fan Drops with Clear Crystal Stones',
+  desc: 'Elegant silver-tone drop earrings featuring clear teardrop crystals surrounded by sparkling floral accents and layered fan-shaped baguette stones. A sophisticated statement design, perfect for weddings, festive occasions, parties, and evening wear.',
+  price: 900,
+  image: '/images/jewellery/earrings/e31.png'
+},
+{
+  id: 'e32',
+  name: 'Pink Crystal Chandelier Earrings',
+  category: 'Earrings',
+  subtitle: 'Elegant Pink Teardrop Chandelier Earrings',
+  desc: 'A luxurious pair of silver-tone chandelier earrings featuring sparkling crystal detailing, layered crescent patterns, delicate floral accents, and elegant pink teardrop gemstones. A sophisticated statement design perfect for weddings, festive occasions, parties, celebrations, and evening wear.',
+  price: 1600,
+  image: '/images/jewellery/earrings/e32.png'
 },
 {
   id: 'r1',
