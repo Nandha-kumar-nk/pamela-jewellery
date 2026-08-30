@@ -473,7 +473,159 @@ const products = [
   price: 800,
   image: '/images/jewellery/rings/r2.jpeg'
 },
-
+{
+  id: 'r3',
+  name: 'Radiant Emerald Crystal Statement Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Emerald Floral Crystal Ring',
+  desc: 'A luxurious silver-tone statement ring featuring a vivid emerald-green center gemstone surrounded by sparkling crystals and intricate floral detailing. A sophisticated design perfect for weddings, festive occasions, parties, celebrations, and elegant evening wear.',
+  price: 500,
+  image: '/images/jewellery/rings/r3.png'
+},
+{
+  id: 'r4',
+  name: 'Emerald Ruby Floral Statement Ring',
+  category: 'Rings',
+  subtitle: 'Luxurious Emerald and Ruby Crystal Ring',
+  desc: 'A striking statement ring featuring a vivid ruby-red center gemstone surrounded by emerald-green accents, sparkling crystal detailing, and intricate gold-toned floral design. A luxurious piece perfect for weddings, festive occasions, celebrations, parties, and elegant evening wear.',
+  price: 520,
+  image: '/images/jewellery/rings/r4.png'
+},
+{
+  id: 'r5',
+  name: 'Aqua Floral Crystal Statement Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Aquamarine Floral Crystal Ring',
+  desc: 'A stunning statement ring featuring beautiful aqua-green gemstone petals arranged in an intricate floral design, surrounded by sparkling crystal detailing. Its elegant silver-tone finish makes it perfect for weddings, festive occasions, parties, celebrations, and sophisticated evening wear.',
+  price: 478,
+  image: '/images/jewellery/rings/r5.png'
+},
+{
+  id: 'r6',
+  name: 'Black Diamond Floral Statement Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Black Crystal Floral Ring',
+  desc: 'A striking silver-tone statement ring featuring elegant black gemstone petals surrounded by sparkling crystal detailing in an intricate floral design. Its sophisticated and luxurious look makes it perfect for weddings, parties, festive occasions, celebrations, and evening wear.',
+  price: 400,
+  image: '/images/jewellery/rings/r6.png'
+},
+{
+  id: 'r7',
+  name: 'Classic Round Halo Crystal Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Round Crystal Halo Ring',
+  desc: 'A timeless silver-tone statement ring featuring a brilliant round center stone surrounded by a sparkling halo and pavé-set multi-row bands. Its elegant and sophisticated design makes it perfect for weddings, celebrations, parties, and evening wear.',
+  price: 400,
+  image: '/images/jewellery/rings/r7.png'
+},
+{
+  id: 'r8',
+  name: 'Pink Floral Crystal Statement Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Pink Gemstone Floral Ring',
+  desc: 'A beautiful silver-tone statement ring featuring delicate pink gemstone petals surrounded by sparkling crystal detailing in an intricate floral design. Its elegant and luxurious appearance makes it perfect for weddings, festive occasions, parties, celebrations, and evening wear.',
+  price: 470,
+  image: '/images/jewellery/rings/r8.png'
+},
+{
+  id: 'r9',
+  name: 'Emerald Floral Crystal Statement Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Emerald Square Crystal Ring',
+  desc: 'A luxurious silver-tone statement ring featuring a vivid emerald-cut green gemstone surrounded by sparkling crystals and intricate floral-inspired detailing. Its elegant square design makes it perfect for weddings, festive occasions, parties, celebrations, and sophisticated evening wear.',
+  price: 500,
+  image: '/images/jewellery/rings/r9.png'
+},
+{
+  id: 'r10',
+  name: 'Pink Radiance Crystal Statement Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Pink Crystal Halo Statement Ring',
+  desc: 'A glamorous statement ring featuring vibrant pink baguette-cut gemstones arranged in a radiant circular halo around a sparkling crystal centre. Its sophisticated design and brilliant finish make it perfect for weddings, festive occasions, parties, celebrations, and elegant evening wear.',
+  price: 450,
+  image: '/images/jewellery/rings/r10.png'
+},
+{
+  id: 'r11',
+  name: 'Royal Amethyst Crystal Statement Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Purple Gemstone Halo Ring',
+  desc: 'A luxurious statement ring featuring a deep purple rectangular gemstone surrounded by a brilliant double halo of sparkling crystals. Its sophisticated design adds a regal touch to weddings, festive occasions, parties, celebrations, and elegant evening wear.',
+  price: 550,
+  image: '/images/jewellery/rings/r11.png'
+},
+{
+  id: 'r12',
+  name: 'Midnight Marquise Statement Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Black Onyx Crystal Ring',
+  desc: 'A bold statement ring featuring deep black marquise-cut gemstones arranged around a brilliant crystal centre. Its dramatic design and sparkling details create a sophisticated look, perfect for parties, evening occasions, celebrations, and elegant wear.',
+  price: 400,
+  image: '/images/jewellery/rings/r12.png'
+},
+{
+  id: 'r13',
+  name: 'Ruby Floral Radiance Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Ruby and Diamond Floral Statement Ring',
+  desc: 'A luxurious statement ring featuring vivid ruby gemstones arranged in a symmetrical floral design, accented with brilliant diamond-like crystals. Its bold yet elegant appearance makes it perfect for weddings, festive occasions, parties, celebrations, and sophisticated evening wear.',
+  price: 550,
+  image: '/images/jewellery/rings/r13.png'
+},
+{
+  id: 'r14',
+  name: 'Emerald Floral Elegance Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Emerald and Crystal Floral Statement Ring',
+  desc: 'A luxurious floral statement ring featuring a vibrant emerald centre surrounded by rich green gemstones and brilliant crystal accents. Its intricate design and sophisticated finish make it perfect for weddings, festive occasions, parties, celebrations, and elegant evening wear.',
+  price: 600,
+  image: '/images/jewellery/rings/r14.png'
+},
+{
+  id: 'r15',
+  name: 'Royal Sapphire Floral Statement Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Blue Sapphire and Crystal Cluster Ring',
+  desc: 'A sophisticated statement ring featuring a vivid blue sapphire centre surrounded by brilliant marquise-cut crystals and sparkling pavé detailing. The multi-band design adds a luxurious and elegant finish, making it perfect for weddings, festive occasions, parties, celebrations, and evening wear.',
+  price: 450,
+  image: '/images/jewellery/rings/r15.png'
+},
+{
+  id: 'r16',
+  name: 'Etoile Blossom Statement Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Floral Crystal Statement Ring',
+  desc: 'A magnificent statement ring featuring a stunning three-petal floral-inspired design adorned with brilliant baguette and round-cut crystals. Its exquisite craftsmanship and radiant sparkle make it perfect for weddings, parties, festive occasions, celebrations, and elegant evening wear.',
+  price: 450,
+  image: '/images/jewellery/rings/r16.png'
+},
+{
+  id: 'r17',
+  name: 'Celestial Diamond Statement Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Multi-Row Diamond Ring',
+  desc: 'A luxurious statement ring featuring a brilliant oval center stone surrounded by sparkling round and baguette-cut crystals. Its layered design and refined finish make it perfect for weddings, celebrations, parties, and elegant evening wear.',
+  price: 450,
+  image: '/images/jewellery/rings/r17.png'
+},
+{
+  id: 'r18',
+  name: 'Eternal Marquise Diamond Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Marquise Crystal Band Ring',
+  desc: 'A sophisticated statement ring featuring a graceful row of marquise-cut crystals surrounded by brilliant round accents. Its refined multi-stone design creates a luxurious sparkle, making it perfect for weddings, celebrations, parties, and elegant evening wear.',
+  price: 400,
+  image: '/images/jewellery/rings/r18.png'
+},
+{
+  id: 'r19',
+  name: 'Pearl Halo Crystal Ring',
+  category: 'Rings',
+  subtitle: 'Elegant Pear-Shaped Crystal Halo Ring',
+  desc: 'A sophisticated statement ring featuring a circular arrangement of brilliant pear-shaped crystals on a polished silver-tone band. Its graceful design and sparkling finish make it perfect for weddings, festive occasions, parties, celebrations, and elegant evening wear.',
+  price: 400,
+  image: '/images/jewellery/rings/r19.png'
+},
 {
   id: 'b1',
   name: 'Silver Crystal Elegance Bangle Set',

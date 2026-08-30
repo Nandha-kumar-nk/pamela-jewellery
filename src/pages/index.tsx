@@ -159,14 +159,18 @@ export default function HomePage() {
           style={{ minHeight: '100svh' }}
         >
 
-          <img
-            src="/airo-assets/images/pages/home/hero"
-            alt="Elegant Indian woman in saree"
-            className="absolute inset-0 w-full h-full object-cover"
-            style={{ objectPosition: '70% center' }}
-            loading="eager"
-            fetchPriority="high"
-          />
+          <video
+            className="absolute inset-0 w-full h-full object-cover pointer-events-none"
+            style={{ objectPosition: '70% center', zIndex: 0 }}
+            autoPlay
+            muted
+            loop
+            playsInline
+            preload="auto"
+            aria-hidden="true"
+          >
+            <source src="/videos/home.mp4" type="video/mp4" />
+          </video>
 
           <div className="absolute inset-0 pc-hero-overlay-split pointer-events-none" />
 
